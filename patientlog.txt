@@ -1,0 +1,1 @@
+Doctor_id:1 Doctor_name:Mohesh Patient_name:mok Patient_issue:fracture Patient_diagnosis:Scan_needed
